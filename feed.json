@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "flashbyte.io",
+    "description": "",
+    "home_page_url": "https://Conscientiousskeptic.github.io/FlashByte",
+    "feed_url": "https://Conscientiousskeptic.github.io/FlashByte/feed.json",
+    "user_comment": "",
+    "icon": "https://Conscientiousskeptic.github.io/FlashByte/media/website/ChatGPT-Image-Jun-16-2025-02_39_45-PM.png",
+    "author": {
+        "name": "Morgan Flash"
+    },
+    "items": [
+    ]
+}

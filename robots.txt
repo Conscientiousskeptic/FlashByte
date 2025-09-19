@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Conscientiousskeptic.github.io/FlashByte/sitemap.xml
